@@ -1,0 +1,12 @@
+{
+  "name": "dartbot",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "devtest": "tsx src/devTest.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0"
+  }
+}
